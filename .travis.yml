@@ -3,7 +3,7 @@ node_js:
   - 0.10
 notifications:
   irc:
-    nick: simnalamburt/gulp-slm
+    nick: gulp-slm
     channels:
       - irc.uriirc.org:16667#hyeon
     template:
