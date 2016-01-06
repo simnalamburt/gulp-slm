@@ -32,7 +32,10 @@ gulp.task('slm', function() {
   };
 
   return gulp.src('./src/*.slm')
-    .pipe(slm({ locals: data }))
+    .pipe(slm({
+        locals: data,
+        extension: '.html' // default value         
+    }))
     .pipe(gulp.dest('./build/'));
 });
 ```
