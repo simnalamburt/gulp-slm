@@ -1,5 +1,15 @@
-gulp-slm [![version] ![downloads]][npm]
+*Migrated to [simnalamburt/npm:packages/gulp-slm]*
 ========
+This repo has been migrated to the [simnalamburt/npm:packages/gulp-slm].
+
+[simnalamburt/npm:packages/gulp-slm]: https://github.com/simnalamburt/npm/tree/master/packages/gulp-slm
+
+&nbsp;
+
+&nbsp;
+
+gulp-slm [![version] ![downloads]][npm]
+--------
 Let's use [Slm] with [Gulp]!
 
 ```slim
